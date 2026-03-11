@@ -34,7 +34,7 @@ Output:
 ------------------------------------------------
 
 Command 4: Access Protected Route
-curl -H "Authorization: Bearer TOKEN" http://localhost:3000/protected
+curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZW1haWwuY29tIiwic2Vzc2lvbklkIjoiY3Y3djJxIiwiaWF0IjoxNzczMjM4NTE3LCJleHAiOjE3NzMyMzk0MTd9.MUz8K71mhee1ip_IDW3g0lPSh6cVdyCiAjrWk4z_Dsc" http://localhost:3000/protected
 
 Output:
 {
